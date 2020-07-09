@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648460634877",
+    "firebase_url": "https://flash-chat-5fe32.firebaseio.com",
+    "project_id": "flash-chat-5fe32",
+    "storage_bucket": "flash-chat-5fe32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648460634877:android:e139cf32581e8f0de78c94",
+        "android_client_info": {
+          "package_name": "com.sashita.Chat_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648460634877-otsldt68ju99rm3qjbpt5qn8hpqsmv3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLMPCQF0Jgl3vbjRn77e8QJ1Ld31jAWWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648460634877-otsldt68ju99rm3qjbpt5qn8hpqsmv3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
